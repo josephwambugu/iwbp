@@ -1,0 +1,23 @@
+.card {
+    background: red;
+    border-radius: 15px;
+    border: 3px solid black;
+    width: 24em;
+}
+.card-body {
+    display: inline-flex;
+}
+.card-body .text {
+    background: #E74C3C;
+}
+.card-body .text p {
+    padding: 0 3em 0 1em;
+}
+.card header {
+    display: block;
+    padding: 0 0 0 1em;
+}
+.card footer {
+    display: block;
+    padding: 0 0 0 1em;
+}
